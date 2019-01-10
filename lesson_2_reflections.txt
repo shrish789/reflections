@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+A new repository is created by initializing a repository. We need it to create a new repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area is used to store a file untill committing. With it's help we can add more than file at a time.
